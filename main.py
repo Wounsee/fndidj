@@ -11,7 +11,7 @@ from aiogram.filters import Command
 from aiogram.types import Message, BufferedInputFile
 from aiogram.exceptions import TelegramBadRequest, TelegramRetryAfter
 
-TELEGRAM_TOKEN = "8521843746:AAEKrucDcyHNPjdFRELlxzrAWd1rg_gMc74"
+TELEGRAM_TOKEN = "8504639235:AAHTRO2hTkbUhcf_kcwrCOIYxB5871eX7Dk"
 IO_NET_API_KEY = "io-v2-eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJvd25lciI6IjlhOTgzZmQxLWI2NzctNGQ3Ny04YWI4LWQ3MTlkYzliOWFiMCIsImV4cCI6NDkxOTMzMTcwOH0.WoY-uKxseC3tYePkjXniZyllk0lROMlEO9uEp9BTdGDVy7X3f28P8NCkyH16lwfpQAGhfuR_EtFMTyAWYT45Bg"
 IO_URL = "https://api.intelligence.io.solutions/api/v1/chat/completions"
 
